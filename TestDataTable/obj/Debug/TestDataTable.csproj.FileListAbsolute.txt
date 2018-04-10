@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\bin\Debug\TestDataTable.exe.config
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\bin\Debug\TestDataTable.exe
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\bin\Debug\TestDataTable.pdb
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\obj\Debug\TestDataTable.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\obj\Debug\TestDataTable.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\obj\Debug\TestDataTable.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\obj\Debug\TestDataTable.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\obj\Debug\TestDataTable.exe
+c:\users\user\documents\visual studio 2017\Projects\TestDataTable\TestDataTable\obj\Debug\TestDataTable.pdb
